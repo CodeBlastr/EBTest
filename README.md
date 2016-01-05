@@ -1,5 +1,3 @@
-# NodeTest
+# SailsTest
 
-Trying some new work with ElasticBeanstalk, Node, and Sails.js
-
-**quick test edit**
+a [Sails](http://sailsjs.org) application
